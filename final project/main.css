@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Gravitas+One&family=Manrope&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Gravitas+One&family=Manrope&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  max-width: 1100px;
+  margin: auto;
+  padding: 0px;
+}
+
+
+.site-banner{
+background-color: #808080;  
+color: white;
+padding-top: 10px;
+  padding-bottom: 8px;
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+  font-size: 80px;
+  font-family: "CinzelDecorative", cursive; 
+}
+
+.source-info {
+  font-size: 20px;
+  margin: 0px 0px 15px 0px;
+  border: #808080 solid 2px;
+  padding: 10px;
+   text-align: center;
+   font-family: "Gravitas", sans-serif;
+   color: #222222;
+}
+
+img {
+  width: 100%;
+}
+
+.lead-caption {
+  font-size: 14px;
+  margin: 5px 0px;
+  line-height: 14px;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+  a:link{
+    color: #003E7F;
+    font-weight: bold;
+  }
+
+  a:visited{
+    color: #BB0000;
+  }
+
+
+  a:hover{
+    color: #FF4F4B;
+  }
+
+
+
+
+
+
+
